@@ -13,7 +13,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, Go, JavaScript
+-  **Languages :** PHP, Go, Vue, JavaScript
 -  **Hobbies :** <a href="https://hzz.cool/travel-map" target="_blank"> Travel: 🧳 </a> &  Music: 🎵 Cantopop   & language: :loudspeaker:  Cantonese 
 -  **Contact me :** <a href="https://twitter.com/he_zhizheng" target="_blank"><img src="https://cdn.jsdelivr.net/gh/hezhizheng/static-image-hosting@master/image-hosting/20210315142621_MXUICNLHFWEUWXXP.svg" alt="Twitter" width="18px"></a>
 <a href="https://www.facebook.com/hezhizheng1026/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/hezhizheng/static-image-hosting@master/image-hosting/20210315142602_APFWHRYWBSXLVWOT.svg" alt="Facebook" width="18px"></a>
