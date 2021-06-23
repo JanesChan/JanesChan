@@ -3,9 +3,9 @@
 
 👋 Hi, I'm Dexter Ho(ChenGuangHui),a backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
 
-[![JanesChan's github stats](https://github-readme-stats.vercel.app/api?username=JanesChan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanesChan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JanesChan's github stats](https://github-readme-stats.vercel.app/api?username=JanesChan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
