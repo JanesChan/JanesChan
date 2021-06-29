@@ -1,7 +1,7 @@
 
-### 👨🏼‍💻 [Jane Chan(ChenGuangHui)](http://www.17wangku.com)
+### 👨🏼‍💻 [kenuing(ChenGuangHui)](http://www.17wangku.com)
 
-👋 Hi, I'm Jane Chan(ChenGuangHui),a backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
+👋 Hi, I'm kenuing(ChenGuangHui),a backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanesChan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
