@@ -3,9 +3,9 @@
 
 👋 Hi, I'm kenuing(ChenGuangHui),a backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanesChan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenuing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![JanesChan's github stats](https://github-readme-stats.vercel.app/api?username=JanesChan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![kenuing's github stats](https://github-readme-stats.vercel.app/api?username=kenuing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 #### Thank you for the visit.
-![](http://profile-counter.glitch.me/JanesChan/count.svg)
+![](http://profile-counter.glitch.me/kenuing/count.svg)
