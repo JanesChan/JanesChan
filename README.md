@@ -9,7 +9,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, Go, Vue, JavaScript
+-  **Languages :** PHP, Go, Erlang, Vue, JavaScript
 -  **Hobbies :** <a href="https://hzz.cool/travel-map" target="_blank"> Travel: 🧳 </a> &  Music: 🎵 Cantopop   & language: :loudspeaker:  Cantonese 
 -  **Contact me :** <a href="https://twitter.com/he_zhizheng" target="_blank"><img src="https://cdn.jsdelivr.net/gh/hezhizheng/static-image-hosting@master/image-hosting/20210315142621_MXUICNLHFWEUWXXP.svg" alt="Twitter" width="18px"></a>
 <a href="https://www.facebook.com/hezhizheng1026/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/hezhizheng/static-image-hosting@master/image-hosting/20210315142602_APFWHRYWBSXLVWOT.svg" alt="Facebook" width="18px"></a>
@@ -24,6 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/erlang/erlang.png"></code>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
